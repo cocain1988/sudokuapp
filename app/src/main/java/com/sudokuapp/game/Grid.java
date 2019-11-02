@@ -9,7 +9,7 @@ public class Grid implements Event{
 
 
 
-    public Grid(){
+    public Grid( Level lvl){
 
         mHideTable = new int[10][10];
         i = 1;

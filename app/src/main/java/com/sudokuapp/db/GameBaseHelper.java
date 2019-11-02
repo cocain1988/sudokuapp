@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class GameBaseHelper extends SQLiteOpenHelper {
 
     private static final int    VERSION         = 1         ;
-    private static final String DATABASE_NAME   = "crime.db";
+    private static final String DATABASE_NAME   = "sudoku.db";
 
     public GameBaseHelper(Context context){
         super(context, DATABASE_NAME, null, VERSION);
