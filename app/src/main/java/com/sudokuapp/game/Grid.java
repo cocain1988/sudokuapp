@@ -5,11 +5,8 @@ public class Grid implements Event{
     private int mVisibleTable[][]       ;
     private int i,j,k                   ;
 
-    private enum Level{Eesy, Normal, Hard}
 
-
-
-    public Grid( Level lvl){
+    public Grid(){
 
         mHideTable = new int[10][10];
         i = 1;

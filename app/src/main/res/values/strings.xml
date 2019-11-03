@@ -4,4 +4,6 @@
     <string name="erase_button">Очистить</string>
     <string name="note_button">Заметка</string>
     <string name="help_button">Помощь</string>
+    <string name="description_num_button">Цифра</string>
+    <string name="num_button">Кнопка</string>
 </resources>

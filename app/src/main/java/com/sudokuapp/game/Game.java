@@ -3,6 +3,8 @@ package com.sudokuapp.game;
 public class Game {
 
     private Grid mGrid;
+    private int ErrorCounter;
+    private int Counter;
 
     public Game(){
 
